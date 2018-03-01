@@ -9,4 +9,4 @@ Write a program to do the following tasks:
 MSB: *Most Significant Byte*
 LSB: *Least Significant Byte*
 
-![code]('images/1.png')
+![code](images/1.png)
